@@ -51,7 +51,7 @@
 </template>
 <script>
 export default {
-    name: 'Package'
+    name: 'Include'
 }
 </script>
 <style lang="scss">

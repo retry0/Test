@@ -27,7 +27,7 @@
 </template>
 <script>
 export default {
-    name: 'LinuxHosting'
+    name: 'Linux'
 }
 </script>
 

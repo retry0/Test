@@ -36,7 +36,7 @@
 </template>
 <script>
 export default {
-    name: 'SupportLaravel'
+    name: 'Laravel'
 }
 </script>
 

@@ -4,13 +4,13 @@
     <HeroImage></HeroImage>
     <PHP></PHP>
     <Pricin></Pricin>
-    <PowerFull></PowerFull>
-    <Package></Package>
-    <SupportLaravel></SupportLaravel>
+    <Feature></Feature>
+    <Include></Include>
+    <Laravel></Laravel>
     <Module></Module>
-    <LinuxHosting></LinuxHosting>
+    <Linux></Linux>
     <Share></Share>
-    <LiveChat></LiveChat>
+    <Chat></Chat>
     <Footer></Footer>
   </div>
 </template>
@@ -21,13 +21,13 @@ import Header from '@/components/Header.vue'
 import HeroImage from '@/components/HeroImage.vue'
 import PHP from '@/components/PHP.vue'
  import Pricin from '@/components/Price.vue'
-import PowerFull from '@/components/PowerfullPHP.vue'
-import Package from '@/components/Package.vue'
-import SupportLaravel from '@/components/LaravelSupport.vue'
-import Module from '@/components/PHPModule.vue'
-import LinuxHosting from '@/components/LinuxHosting.vue'
+import Feature from '@/components/Feature.vue'
+import Include from '@/components/Include.vue'
+import Laravel from '@/components/Laravel.vue'
+import Module from '@/components/Module.vue'
+import Linux from '@/components/Linux.vue'
 import Share from '@/components/Share.vue'
-import LiveChat from '@/components/LiveChat.vue'
+import Chat from '@/components/Chat.vue'
 import Footer from '@/components/Footer.vue'
 export default {
   name: 'home',
@@ -36,13 +36,13 @@ export default {
     HeroImage,
     PHP,
     Pricin,
-    PowerFull,
-    Package,
-    SupportLaravel,
+    Feature,
+    Include,
+    Laravel,
     Module,
-    LinuxHosting,
+    Linux,
     Share,
-    LiveChat,
+    Chat,
     Footer
   }
 }

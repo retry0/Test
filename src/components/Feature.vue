@@ -45,7 +45,7 @@
 </template>
 <script>
 export default {
-    name: 'PowerFull'
+    name: 'Feature'
 }
 </script>
 <style lang="scss">

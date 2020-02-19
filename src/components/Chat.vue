@@ -10,7 +10,7 @@
 </template>
 <script>
 export default {
-    name: 'LiveChat'
+    name: 'Chat'
 }
 </script>
 <style lang="scss">
